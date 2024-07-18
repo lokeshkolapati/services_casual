@@ -1,0 +1,30 @@
+.box {
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    border: 4px solid;
+    color: red;
+    display: inline-block;
+}
+
+.body{
+    height: 200vh;
+}
+
+.box1{
+    position: sticky;
+    top: 20px;
+    right: 50px;
+}
+
+.box3{
+    position: relative;
+    top: 30px;
+    left: 40px;
+}
+
+.box2{
+    position: fixed;
+    bottom: 20px;
+    right: 50px;
+}

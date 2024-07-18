@@ -1,0 +1,13 @@
+h1 {
+    color:rgb(72, 217, 214);
+}
+
+p {
+    color:yellowgreen;
+}
+
+.my-container {
+    height: 80vh;
+    background-color: pink;
+    text-align: center;
+}
